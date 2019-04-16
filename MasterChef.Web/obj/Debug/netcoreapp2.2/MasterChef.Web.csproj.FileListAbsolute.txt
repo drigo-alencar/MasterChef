@@ -1,0 +1,74 @@
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.deps.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.runtimeconfig.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.runtimeconfig.dev.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.csproj.CoreCompileInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorAssemblyInfo.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorAssemblyInfo.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.AssemblyInfoInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.AssemblyInfo.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.TagHelpers.input.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.TagHelpers.output.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorCoreGenerate.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.Views.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.Views.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.Views.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.csproj.CopyComplete
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.csprojAssemblyReference.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Core.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Core.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Create.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Delete.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Details.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Edit.g.cshtml.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Index.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.deps.json
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.runtimeconfig.json
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.runtimeconfig.dev.json
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.dll
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.pdb
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.Views.dll
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Web.Views.pdb
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Core.dll
+X:\Source\Repositories\MasterChef\MasterChef.Web\bin\Debug\netcoreapp2.2\MasterChef.Core.pdb
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.csprojAssemblyReference.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.csproj.CoreCompileInputs.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorAssemblyInfo.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorAssemblyInfo.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.AssemblyInfoInputs.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.AssemblyInfo.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.TagHelpers.input.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.TagHelpers.output.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorCoreGenerate.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Create.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Delete.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Details.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Edit.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Recipes\Index.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorTargetAssemblyInfo.cache
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.RazorTargetAssemblyInfo.cs
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.Views.pdb
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.csproj.CopyComplete
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.dll
+X:\Source\Repositories\MasterChef\MasterChef.Web\obj\Debug\netcoreapp2.2\MasterChef.Web.pdb

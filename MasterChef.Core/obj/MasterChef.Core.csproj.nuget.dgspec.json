@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {}
+  },
+  "projects": {
+    "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+        "projectName": "MasterChef.Core",
+        "projectPath": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+        "packagesPath": "C:\\Users\\Geister Wolf\\.nuget\\packages\\",
+        "outputPath": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Geister Wolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

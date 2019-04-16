@@ -1,0 +1,28 @@
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.deps.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.runtimeconfig.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.runtimeconfig.dev.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.csprojAssemblyReference.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.csproj.CoreCompileInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorAssemblyInfo.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorAssemblyInfo.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.AssemblyInfoInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.AssemblyInfo.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.pdb
+X:\Source\Repositories\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.deps.json
+X:\Source\Repositories\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.runtimeconfig.json
+X:\Source\Repositories\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.runtimeconfig.dev.json
+X:\Source\Repositories\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.dll
+X:\Source\Repositories\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.pdb
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.csprojAssemblyReference.cache
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.csproj.CoreCompileInputs.cache
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorAssemblyInfo.cache
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorAssemblyInfo.cs
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.AssemblyInfoInputs.cache
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.AssemblyInfo.cs
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorTargetAssemblyInfo.cache
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.dll
+X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.pdb

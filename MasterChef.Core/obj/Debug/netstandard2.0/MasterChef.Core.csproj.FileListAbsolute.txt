@@ -1,0 +1,6 @@
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\bin\Debug\netstandard2.0\MasterChef.Core.deps.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\bin\Debug\netstandard2.0\MasterChef.Core.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netstandard2.0\MasterChef.Core.csprojAssemblyReference.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netstandard2.0\MasterChef.Core.csproj.CoreCompileInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netstandard2.0\MasterChef.Core.AssemblyInfoInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netstandard2.0\MasterChef.Core.AssemblyInfo.cs

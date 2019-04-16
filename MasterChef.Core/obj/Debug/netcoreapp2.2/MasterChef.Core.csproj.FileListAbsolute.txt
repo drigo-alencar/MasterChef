@@ -1,0 +1,22 @@
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.deps.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.csproj.CoreCompileInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.AssemblyInfoInputs.cache
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.AssemblyInfo.cs
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.dll
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.pdb
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.runtimeconfig.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.runtimeconfig.dev.json
+C:\Users\Geister Wolf\source\repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.csprojAssemblyReference.cache
+X:\Source\Repositories\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.deps.json
+X:\Source\Repositories\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.runtimeconfig.json
+X:\Source\Repositories\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.runtimeconfig.dev.json
+X:\Source\Repositories\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.dll
+X:\Source\Repositories\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.pdb
+X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.csprojAssemblyReference.cache
+X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.csproj.CoreCompileInputs.cache
+X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.AssemblyInfoInputs.cache
+X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.AssemblyInfo.cs
+X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.dll
+X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.pdb
