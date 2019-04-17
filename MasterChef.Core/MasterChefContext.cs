@@ -6,21 +6,18 @@ using System.Text;
 
 namespace MasterChef.Core
 {
-	public class MasterChefContext : DbContext
-	{
-		public MasterChefContext(DbContextOptions options) : base(options) { }
+    public class MasterChefContext : DbContext
+    {
+        public MasterChefContext(DbContextOptions options) : base(options) { }
 
-		public virtual DbSet<Category> Categories { get; set; }
+        public virtual DbSet<Category> Categories { get; set; }
 
-		public virtual DbSet<Recipe> Recipes { get; set; }
+        public virtual DbSet<Recipe> Recipes { get; set; }
 
-		public virtual DbSet<Tag> Tags { get; set; }
-
-		protected override void OnModelCreating(ModelBuilder modelBuilder)
-		{
-			modelBuilder.ApplyConfiguration(new CategoryEntityTypeConfiguration());
-			modelBuilder.ApplyConfiguration(new RecipeEntityTypeConfiguration());
-			modelBuilder.ApplyConfiguration(new TagEntityTypeConfiguration());
-		}
-	}
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new CategoryEntityTypeConfiguration());
+            modelBuilder.ApplyConfiguration(new RecipeEntityTypeConfiguration());
+        }
+    }
 }

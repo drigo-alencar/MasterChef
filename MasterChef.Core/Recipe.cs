@@ -8,7 +8,7 @@ namespace MasterChef.Core
 	{
 		public Category Category { get; set; }
 
-		public int CategoryRecipeId { get; internal set; }
+		public int CategoryRecipeId { get; set; }
 
 		public string Description { get; set; }
 
@@ -20,7 +20,7 @@ namespace MasterChef.Core
 
 		public string Ingredients { get; set; }
 
-		public ICollection<Tag> Tags { get; set; }
+		public string Tags { get; set; }
 
 		public string Title { get; set; }
 	}

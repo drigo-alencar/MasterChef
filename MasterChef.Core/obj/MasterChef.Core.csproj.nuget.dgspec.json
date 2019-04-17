@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {}
+    "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {}
   },
   "projects": {
-    "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {
+    "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
         "projectName": "MasterChef.Core",
-        "projectPath": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
-        "packagesPath": "C:\\Users\\Geister Wolf\\.nuget\\packages\\",
-        "outputPath": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Core\\obj\\",
+        "projectPath": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+        "packagesPath": "C:\\Users\\Pedro Bonatti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Geister Wolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pedro Bonatti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

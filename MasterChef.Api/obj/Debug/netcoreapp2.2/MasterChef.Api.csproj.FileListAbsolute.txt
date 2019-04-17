@@ -26,3 +26,20 @@ X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterC
 X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorTargetAssemblyInfo.cache
 X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.dll
 X:\Source\Repositories\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.pdb
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.csprojAssemblyReference.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorAssemblyInfo.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorAssemblyInfo.cs
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.AssemblyInfoInputs.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.AssemblyInfo.cs
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.dll
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.pdb
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.deps.json
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.runtimeconfig.json
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.runtimeconfig.dev.json
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.dll
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Api.pdb
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Core.dll
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\bin\Debug\netcoreapp2.2\MasterChef.Core.pdb
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Api\obj\Debug\netcoreapp2.2\MasterChef.Api.csproj.CopyComplete

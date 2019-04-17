@@ -1,23 +1,94 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Source\\Repositories\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj": {}
+    "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj": {}
   },
   "projects": {
-    "X:\\Source\\Repositories\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj": {
+    "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj",
         "projectName": "MasterChef.Api",
-        "projectPath": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj",
-        "packagesPath": "C:\\Users\\Geister Wolf\\.nuget\\packages\\",
-        "outputPath": "X:\\Source\\Repositories\\MasterChef\\MasterChef.Api\\obj\\",
+        "projectPath": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Api\\MasterChef.Api.csproj",
+        "packagesPath": "C:\\Users\\Pedro Bonatti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Geister Wolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pedro Bonatti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {
+                "projectPath": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+        "projectName": "MasterChef.Core",
+        "projectPath": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+        "packagesPath": "C:\\Users\\Pedro Bonatti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pedro Bonatti\\source\\repos\\MasterChef\\MasterChef.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pedro Bonatti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,16 +112,15 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[2.2.4, )"
             },
-            "Microsoft.AspNetCore.Razor.Design": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.2.4, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

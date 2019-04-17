@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MasterChef.Core;
+using System.Net.Http.Headers;
+using System.IO;
 
 namespace MasterChef.Web.Controllers
 {
@@ -56,14 +58,29 @@ namespace MasterChef.Web.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("CategoryRecipeId,Description,Directions,Photo,Id,Ingredients,Title")] Recipe recipe)
+        public async Task<IActionResult> Create([Bind("CategoryRecipeId,Description,Directions,Photo,Id,Ingredients,Title,Tags")] Recipe recipe)
         {
             if (ModelState.IsValid)
             {
+                var files = HttpContext.Request.Form.Files;
+                var fileName = string.Empty;
+
+                foreach (var file in files)
+                {
+                    if (file.Length > 0)
+                    {
+                        var photo = new byte[file.Length];
+
+                        file.OpenReadStream().Read(photo, 0, (int)file.Length);
+                        recipe.Photo = photo;
+                    }
+                }
+
                 _context.Add(recipe);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
             ViewData["CategoryRecipeId"] = new SelectList(_context.Categories, "Id", "Description", recipe.CategoryRecipeId);
             return View(recipe);
         }
@@ -90,7 +107,7 @@ namespace MasterChef.Web.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("CategoryRecipeId,Description,Directions,Photo,Id,Ingredients,Title")] Recipe recipe)
+        public async Task<IActionResult> Edit(int id, [Bind("CategoryRecipeId,Description,Directions,Photo,Id,Ingredients,Title,Tags")] Recipe recipe)
         {
             if (id != recipe.Id)
             {
@@ -101,6 +118,28 @@ namespace MasterChef.Web.Controllers
             {
                 try
                 {
+                    var files = HttpContext.Request.Form.Files;
+                    var fileName = string.Empty;
+
+                    if (files != null &&
+                        files.Count > 0)
+                    {
+                        foreach (var file in files)
+                        {
+                            if (file.Length > 0)
+                            {
+                                var photo = new byte[file.Length];
+
+                                file.OpenReadStream().Read(photo, 0, (int)file.Length);
+                                recipe.Photo = photo;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        recipe.Photo = null;
+                    }
+
                     _context.Update(recipe);
                     await _context.SaveChangesAsync();
                 }

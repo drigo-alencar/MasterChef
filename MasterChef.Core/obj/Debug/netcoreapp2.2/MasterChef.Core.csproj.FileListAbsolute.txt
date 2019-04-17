@@ -20,3 +20,14 @@ X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\Master
 X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.AssemblyInfo.cs
 X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.dll
 X:\Source\Repositories\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.pdb
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.csprojAssemblyReference.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.AssemblyInfoInputs.cache
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.AssemblyInfo.cs
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.dll
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\obj\Debug\netcoreapp2.2\MasterChef.Core.pdb
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.deps.json
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.runtimeconfig.json
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.runtimeconfig.dev.json
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.dll
+C:\Users\Pedro Bonatti\Source\Repos\MasterChef\MasterChef.Core\bin\Debug\netcoreapp2.2\MasterChef.Core.pdb
